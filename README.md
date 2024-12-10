@@ -11,3 +11,11 @@
 <p>Adaptive Learning Models: Employs machine learning algorithms to handle evolving spam patterns.</p>
 <p>Contextual Understanding: Leverages deep learning models like LSTM or transformers (e.g., BERT) for semantic analysis.</p>
 <p>Scalability: Can process large volumes of emails efficiently.</p>
+
+## Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/spam-email-classifier.git
+cd spam-email-classifier
